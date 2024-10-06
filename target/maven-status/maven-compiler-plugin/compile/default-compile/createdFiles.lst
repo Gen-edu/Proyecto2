@@ -1,0 +1,8 @@
+com\mycompany\proyecto2\Proyecto2.class
+MapeoBD\exceptions\NonexistentEntityException.class
+MapeoBD\exceptions\PreexistingEntityException.class
+MapeoBD\StockJpaController.class
+MapeoBD\Stock.class
+MapeoBD\exceptions\IllegalOrphanException.class
+MapeoBD\SecurityItemJpaController.class
+MapeoBD\SecurityItem.class
